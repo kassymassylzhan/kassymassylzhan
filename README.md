@@ -23,12 +23,18 @@ Claude-powered agents — and I keep the whole stack running **24/7**.
 ### 🧰 Tech
 
 `Python` · `SQL / SQLite` · `Anthropic Claude API` · `RAG` · `pandas` ·
-`Telegram Bot API` · `Git` · learning → `FastAPI` · `Power BI` · `Docker / deployment`
+`Power BI` · `Tableau` · `Looker Studio` · `Excel` · `Telegram Bot API` · `Git` ·
+learning → `FastAPI` · `Docker / deployment`
+
+### 🎓 Certification
+
+**Data Analytics** — 6-month course, Academica (2026): Statistics & Math, Python, SQL,
+Excel, Power BI, Tableau, Google Sheets & Looker Studio, Product Analytics.
 
 ### 🌱 Currently learning
 
 FastAPI as a unified API gateway with role-based access, advanced SQL (window functions,
-CTEs), Power BI, and deployment / MLOps — building toward remote AI-engineering work.
+CTEs), and deployment / MLOps — building toward remote AI-engineering work.
 
 ### 💡 How I work
 
