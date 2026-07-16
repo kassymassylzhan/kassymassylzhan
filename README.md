@@ -8,7 +8,7 @@ Claude-powered agents — and I keep the whole stack running **24/7**.
 
 ---
 
-### 🚀 What I build (in production · Business Intelligence Analyst )
+### 🚀 What I build (Expert Neuro  · Business Intelligence Analyst )
 
 - **AI Telegram assistants** for doctors, coordinators and branch heads — live KPIs,
   real-time bonus calculators, patient-handoff funnels. Role-based access, data pulled
