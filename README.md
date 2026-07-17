@@ -2,13 +2,13 @@
 
 > I build production AI systems that run a business day-to-day — not demos.
 
-Analytics & automation lead for a **network of 7 medical clinics**. I turn messy
-operational data into live dashboards, Telegram tools employees actually use, and
-Claude-powered agents — and I keep the whole stack running **24/7**.
+Business Intelligence Analyst at **Expert Neuro** — a network of 7 medical clinics.
+I turn messy operational data into live dashboards, Telegram tools employees actually
+use, and Claude-powered agents — and I keep the whole stack running **24/7**.
 
 ---
 
-### 🚀 What I build (Expert Neuro  · Business Intelligence Analyst )
+### 🚀 What I build (in production)
 
 - **AI Telegram assistants** for doctors, coordinators and branch heads — live KPIs,
   real-time bonus calculators, patient-handoff funnels. Role-based access, data pulled
